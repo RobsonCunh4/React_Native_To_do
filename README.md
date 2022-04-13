@@ -1,2 +1,2 @@
-# React_Native_To_do
+# React Native To do
 Projeto de estudo, to-do de tarefas.
